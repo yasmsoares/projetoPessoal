@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,100&family=Signika+Negative:wght@300&display=swap');
+
+* {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.ladoalado{
+    display: flex; /* coloca as imagens uma ao lado da outra */
+    justify-content: center; /* alinha as imagens no centro da tela */
+}
+
+.box {
+    height: 20%;
+    width: 20%;
+}
+
+.box2 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.box3 {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.box4 {
+    height: 100px;
+    width: 100px;
+}   
+
+.cores2{
+    background-color: #D9C9D3;
+}
+
+.cores3{
+    background-color: pink;
+}
+
+.cores4{
+    background-color: rgb(253, 235, 238);
+    margin-inline: 0%;
+    scroll-margin-inline: 30%;
+}
+
+#cor3{
+    background-color: rgb(253, 235, 238);
+}
+
+#cor4 {
+    background-color: pink;
+}
+
